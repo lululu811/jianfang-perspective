@@ -1,0 +1,15 @@
+# 语料源文件（不追踪）
+sources/
+
+# 分析临时文件
+/tmp/
+
+# 系统文件
+.DS_Store
+*.swp
+*.swo
+*~
+
+# OMC 运行时状态
+.omc/
+modules/.omc/
