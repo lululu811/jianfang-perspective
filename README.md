@@ -1,3 +1,7 @@
+> 📦 本 Skill 已收录进合集 **[perspective-skills](https://github.com/lululu811/perspective-skills)** —— 10 个人物视角，一行安装：`npx github:lululu811/perspective-skills --all`
+>
+> 本仓库是该 Skill 的源仓库，合集内的副本由 `scripts/sync.sh` 同步。
+
 # 简放 · 交易思维操作系统
 
 > "没有交易体系的人，长期看来，不可能在市场上获得成功。"
